@@ -13,7 +13,6 @@
   @media screen and (max-width: 400px) {
     .account__name {
       margin-left: 27px;
-      margin-left: 13px;
       max-width: 226px;
       font-size: 27px;
       line-height: 33px;

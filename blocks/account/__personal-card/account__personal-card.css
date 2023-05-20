@@ -1,6 +1,5 @@
 .account__personal-card {
     display: flex;
-    position: relative;
     align-content: center;
     gap: 30px;
 }
